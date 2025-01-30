@@ -1,4 +1,3 @@
-# WebScrapping
 # 🖥️ Job Scraper for Python Developers
 
 This Python script scrapes job listings from **TimesJobs** based on the **Python** keyword and filters out job postings that require a skill the user is unfamiliar with. The extracted job details are saved into individual text files.
