@@ -33,13 +33,13 @@ pip install requests beautifulsoup4 lxml
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/YathishPoojary98/job-scraper.git
+git clone https://github.com/YathishPoojary98/Job-Scraper.git
 ```
 
 Navigate into the cloned directory:
 
 ```bash
-cd job-scraper
+cd Job-Scraper/Web scraping
 ```
 
 ### 2️⃣ Run the Script
