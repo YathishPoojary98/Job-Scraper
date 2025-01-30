@@ -39,7 +39,7 @@ git clone https://github.com/YathishPoojary98/Job-Scraper.git
 Navigate into the cloned directory:
 
 ```bash
-cd Job-Scraper/Web scraping
+cd Job-Scraper/Web scrapping
 ```
 
 ### 2️⃣ Run the Script
